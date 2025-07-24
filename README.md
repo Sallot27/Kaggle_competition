@@ -17,7 +17,7 @@ This repository contains my end-to-end solutions for various Kaggle competitions
   - Logistic Regression, Random Forest, XGBoost
   - Feature engineering: titles, family size
   - Submission ready `.csv` file
-- **Notebook**: [`titanic-notebook.ipynb`](./titanic/titanic-notebook.ipynb)
+- **Notebook**: [`titanic-notebook.ipynb`](./Titanic/titanic-notebook.ipynb)
 
 ---
 
