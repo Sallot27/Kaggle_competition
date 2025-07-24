@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="main/icon.jpg" alt="Sallot27 Logo" width="150"/>
+  <img src="icon.jpg" alt="Sallot27 Logo" width="150"/>
 </p>
 
 # 🧠 Kaggle Competition Solutions
