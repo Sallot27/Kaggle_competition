@@ -44,6 +44,19 @@ This repository contains my end-to-end solutions for various Kaggle competitions
 - **Notebook**: [`spaceship-titanic.ipynb`](./spaceship-titanic/spaceship-titanic.ipynb)
 
 ---
+
+### 4. 🧠 LLM Prompt Classification - Fine-Tuning
+- **Link**: [LLM Prompt Classification](https://www.kaggle.com/competitions/llm-classification-finetuning)
+- **Goal**: Classify prompts into correct categories to aid large language model fine-tuning.
+- **Techniques**:
+  - NLP text preprocessing
+  - BERT-based transformer fine-tuning (e.g., `roberta-base`)
+  - Tokenization, truncation, padding
+  - Multi-class classification with Softmax
+- **Tools**: PyTorch, HuggingFace Transformers
+- **Notebook**: [`llm-prompt-classification.ipynb`](./llm-classification/llm-prompt-classification.ipynb)
+
+---
 ## 📁 Repository Structure
 
 .
@@ -59,11 +72,13 @@ This repository contains my end-to-end solutions for various Kaggle competitions
 │ └── spaceship-titanic.ipynb
 │ └── submission.csv
 │
+├── llm-classification/
+│   └── llm-prompt-classification.ipynb
+│   └── submission.csv
+|
 └── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
