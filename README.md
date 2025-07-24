@@ -29,7 +29,7 @@ This repository contains my end-to-end solutions for various Kaggle competitions
   - Log-transform of target variable
   - Missing value imputation and categorical encoding
   - Submission CSV creation for Kaggle
-- **Notebook**: [`house-prices.ipynb`](./house-prices/house-prices.ipynb)
+- **Notebook**: [`house-prices.ipynb`](./house-prices/house_prices.ipynb)
 
 ---
 
@@ -41,7 +41,7 @@ This repository contains my end-to-end solutions for various Kaggle competitions
   - Feature engineering: cabin deck/side, spend totals
   - Validation accuracy ~0.798
   - Final `.csv` file for submission
-- **Notebook**: [`spaceship-titanic.ipynb`](./spaceship-titanic/spaceship-titanic.ipynb)
+- **Notebook**: [`spaceship-titanic.ipynb`](./spaceship-titanic/spaceship_titanic.ipynb)
 
 ---
 
